@@ -1,0 +1,72 @@
+.dangote{
+    color: blue;
+}
+body{
+    background-color: #c5bacf;
+}
+
+.dangote{
+    width: 50px;
+    margin: 0 auto;
+}
+
+  .web{
+      text-align: center;
+  } 
+  
+  input{
+      margin-bottom: 10px;
+  }
+
+  .form{
+background-color: whitesmoke;
+  }
+
+  .input{
+    background-color: blue;
+    color: white;
+    padding-left: 66px;
+    padding-right: 66px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 14px;
+  }
+
+  .word{
+      color: blue;
+
+  }
+
+  .lines{
+      padding-right: 20px;
+  }
+
+  .home{
+      color: white;
+      background-color: green;
+      padding-left: 10px;
+      padding-right: 10pxpx;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border-radius: 14px;
+  }
+
+  .project{
+      margin-bottom: 10px;
+  }
+
+  .route{
+      padding-top: 4px;
+      padding-bottom: 4px;
+      border-radius: 14px;
+  }
+
+  .changeblack{
+background-color: blue;
+color: aqua;
+  }
+
+  .changewhite{
+background-color: beige;
+
+  }
